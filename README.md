@@ -35,7 +35,8 @@ SolVault demonstrates how to create a vault on Solana that allows users to depos
 
    ```bash
    yarn install
-````
+   ```
+
 2. Start local Solana test validator
 
    ```bash
